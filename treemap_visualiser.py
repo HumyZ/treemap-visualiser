@@ -144,12 +144,13 @@ def run_treemap_population() -> None:
 
 
 if __name__ == '__main__':
-    # Can only run the file hierarchy visualizer or population visualizer one at
-    # a time. Comment the other one out.
+    # Note: Can only run the file hierarchy visualizer or population visualizer
+    # one at a time.
 
     # the following is a valid path in my Mac
     # replace this path with a valid path in your system
-    # run_treemap_file_system('/Users/humjot/Desktop/Dev/treemap visualiser')
+
+    # run_treemap_file_system('/Users/humjot/Desktop/Dev/treemap-visualiser')
 
     run_treemap_population()
 
