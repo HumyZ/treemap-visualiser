@@ -6,7 +6,7 @@ Expanded to support world population data from a JSON file, displaying each coun
 
 In treemap_visualiser.py, at the bottom of the code in the "if __name__ == '__main__':" block, there is a call to either run run_treemap_file_system(PATH) or run_treemap_population().
 
-Replace PATH with a valid path from your file system to see the file hierarchy in terms of space.
+Replace PATH with a valid path from your file system to see the file hierarchy in terms of file size.
 
 The visualiser supports user input.
 In the visualiser, you can: 
